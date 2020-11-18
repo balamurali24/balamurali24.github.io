@@ -1,0 +1,16 @@
+h1{
+    color: brown;
+}
+
+h5{
+    color: rgb(81, 66, 170);
+}
+
+*{
+    box-sizing: border-box;
+}
+
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
